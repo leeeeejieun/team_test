@@ -1,8 +1,59 @@
+# <span id="top">📃 Dear Therapy</span>
+
+### 👀 팀 소개
+<table border="1" cellspacing="0" cellpadding="0" width="100%">
+    <tr width="100%">
+        <td width="25%" align="center"><a href= "https://github.com/leeeeejieun">이지은</a></td>
+        <td width="25%" align="center"><a href= "https://github.com/two0627">이경윤</a></td>
+        <td width="25%" align="center"><a href= "https://github.com/HJK013">김현지</a></td>
+        <td width="25%" align="center"><a href= "https://github.com/PSO01">박새온</a></td>
+    </tr>
+    <tr width="100%">
+        <td align="center"><img src = "https://github.com/leeeeejieun.png"></td>
+        <td align="center"><img src = "https://github.com/two0627.png"/></td>
+        <td align="center"><img src = "https://github.com/HJK013.png"/></td>
+        <td align="center"><img src = "https://github.com/PSO01.png"/></td>
+    </tr>
+    <tr width="100%">
+        <td width="25%" align="center">
+        팀장
+        </td>
+        <td width="25%" align="center">
+         팀원 
+        </td>
+        <td width="25%" align="center">
+        팀원
+        </td>
+        <td width="25%" align="center">
+        팀원
+        </td>
+   </tr>
+   <tr width="100%">
+        <td width="25%" align="center">
+        백엔드 담당
+        </td>
+        <td width="25%" align="center">
+        백엔드 담당
+        </td>
+        <td width="25%" align="center">
+        프론트엔드 담당
+        </td>
+        <td width="25%" align="center">
+        프론트엔드
+        </td>
+   </tr>
+</table>
+
+<br>
+
 ### 📢 Commit Message Rules
 
 - 작은 기능이라도 구현이 완료되면 커밋하여 반영 사항을 확인할 수 있도록 합니다.
 - 커밋 유형 이후 제목과 본문은 한글로 작성하여 내용이 잘 전달될 수 있도록 합니다.
 - 커밋 메시지는 누구나 이해할 수 있게 작성합니다.
+
+
+<br>
 
 ### 📌 Commit Convention
 
@@ -25,6 +76,9 @@
 ```
   Feat: 로그인 기능 구현 
 ```
+
+
+<br>
 
 ### 📌 Code Convention
 #### 문자열
@@ -65,6 +119,8 @@ const handleClick = () => {
 };
 ```
 
+<br>
+
 ### 📌 Gitfolw Rules
 1. devleop 브랜치에 직접적인 commit, push는 금지합니다.
    - 모든 작업은 각자의 feature 브랜치에서 진행됩니다.
@@ -75,6 +131,9 @@ const handleClick = () => {
 3. 기능 구현이 완료되지 않은 경우에는 각자의 feature 브랜치에 커밋을 진행하며, 완료되면 develop 브랜치로 PR을 보냅니다.
   
 4. PR은 팀장의 코드 리뷰가 완료된 후 devleop 브랜치에 merge 할 수 있습니다.  
+
+
+<br>
 
 ### 📌 Branch Naming Convention
 - master : 배포용 브랜치
