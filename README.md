@@ -2,46 +2,30 @@
 
 ### 👀 팀 소개
 <table border="1" cellspacing="0" cellpadding="0" width="100%">
-    <tr width="100%">
-        <td width="25%" align="center"><a href= "https://github.com/leeeeejieun">이지은</a></td>
-        <td width="25%" align="center"><a href= "https://github.com/two0627">이경윤</a></td>
-        <td width="25%" align="center"><a href= "https://github.com/HJK013">김현지</a></td>
-        <td width="25%" align="center"><a href= "https://github.com/PSO01">박새온</a></td>
+    <tr>
+        <td width="25%" align="center"><a href="https://github.com/leeeeejieun">이지은</a></td>
+        <td width="25%" align="center"><a href="https://github.com/two0627">이경윤</a></td>
+        <td width="25%" align="center"><a href="https://github.com/HJK013">김현지</a></td>
+        <td width="25%" align="center"><a href="https://github.com/PSO01">박새온</a></td>
     </tr>
-    <tr width="100%">
-        <td align="center"><img src = "https://github.com/leeeeejieun.png"></td>
-        <td align="center"><img src = "https://github.com/two0627.png"/></td>
-        <td align="center"><img src = "https://github.com/HJK013.png"/></td>
-        <td align="center"><img src = "https://github.com/PSO01.png"/></td>
+    <tr>
+        <td align="center"><img src="https://github.com/leeeeejieun.png" alt="이지은"></td>
+        <td align="center"><img src="https://github.com/two0627.png" alt="이경윤"></td>
+        <td align="center"><img src="https://github.com/HJK013.png" alt="김현지"></td>
+        <td align="center"><img src="https://github.com/PSO01.png" alt="박새온"></td>
     </tr>
-    <tr width="100%">
-        <td width="25%" align="center">
-        팀장
-        </td>
-        <td width="25%" align="center">
-         팀원 
-        </td>
-        <td width="25%" align="center">
-        팀원
-        </td>
-        <td width="25%" align="center">
-        팀원
-        </td>
-   </tr>
-   <tr width="100%">
-        <td width="25%" align="center">
-        백엔드 담당
-        </td>
-        <td width="25%" align="center">
-        백엔드 담당
-        </td>
-        <td width="25%" align="center">
-        프론트엔드 담당
-        </td>
-        <td width="25%" align="center">
-        프론트엔드
-        </td>
-   </tr>
+    <tr>
+        <td align="center">팀장</td>
+        <td align="center">팀원</td>
+        <td align="center">팀원</td>
+        <td align="center">팀원</td>
+    </tr>
+    <tr>
+        <td align="center">백엔드 담당</td>
+        <td align="center">백엔드 담당</td>
+        <td align="center">프론트엔드 담당</td>
+        <td align="center">프론트엔드</td>
+    </tr>
 </table>
 
 <br>
